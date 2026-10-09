@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="13" fill="#182126"/>
+  <path d="m32 6 6.2 18.7H58L42 36.3l6.1 18.8L32 43.5 15.9 55.1 22 36.3 6 24.7h19.8Z" fill="none" stroke="#e7e4dc" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M22 37h20" stroke="#e7513b" stroke-width="3"/>
+  <text x="32" y="34" text-anchor="middle" fill="#e7e4dc" font-family="Arial,sans-serif" font-weight="800" font-size="16">NSC</text>
+</svg>
