@@ -1,5 +1,5 @@
-// Set this to the mailbox that should receive FormSubmit messages.
-// Leave it empty to hide the form and email links until the mailbox is ready.
+// Use a FormSubmit email address or its 32-character invisible-email token.
+// Leave it empty to hide the form until a recipient is ready.
 window.siteConfig = {
-  contactEmail: ""
+  formSubmitRecipient: "Nscpumping@gmail.com"
 };
